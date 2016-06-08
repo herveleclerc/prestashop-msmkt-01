@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "Ansible Managed Prestashop Cluster",
+  "description": "This template allow to deploy one Ansible Control VM and n load balanced front VMs and a Master Slave Mysql Cluster for Prestahop Web Shop",
+  "summary": "Ansible Managed Prestashop Cluster",
+  "githubUsername": "herveleclerc",
+  "dateUpdated": "2016-06-10"
+}
