@@ -1,0 +1,80 @@
+{
+  "shopSize": {
+    "value": "Small"
+  },
+  "hcUsername": {
+    "value": "pr35745h0p"
+  },
+  "authenticationType": {
+    "value": "password"
+  },
+  "adminPassword": {
+    "value": "#Passw0rd#"
+  },
+  "mySQLPassword": {
+    "value": "prestashop"
+  },
+  "frVmSize": {
+    "value": "Standard_A1"
+  },
+  "numberOfFront":{
+      "value": "2"
+  },
+  "bkVmSize": {
+    "value": "Standard_A2"
+  },
+  "numberOfBack":{
+      "value": "2"
+  },
+  "storageAccountNewOrExisting": {
+    "value": "new"
+  },
+  "storageAccountName": {
+    "value": "prestashop1234"
+  },
+  "storageAccountType": {
+    "value": "Standard_LRS"
+  },
+  "dnsNameForPublicIP": {
+    "value": "testps1202"
+  },
+  "publicIPAddressName": {
+    "value": "frontEndIp"
+  },
+  "vnetNewOrExisting": {
+    "value": "new"
+  },
+  "vnetName": {
+    "value": "vnet-prestashop"
+  },
+  "vnetPrefix": {
+    "value": "10.2.0.0/16"
+  },
+  "vnetSubnet1Name": {
+    "value": "front-subnet"
+  },
+  "vnetSubnet1Prefix": {
+    "value": "10.2.0.0/24"
+  },
+  "vnetSubnet2Name": {
+    "value": "sql-subnet"
+  },
+  "vnetSubnet2Prefix": {
+    "value": "10.2.1.0/24"
+  },
+  "prestashop_firstname": {
+    "value": "John"
+  },
+  "prestashop_lastname": {
+    "value": "Doe"
+  },
+  "prestashop_email": {
+    "value": "john@doe.com"
+  },
+  "prestashop_password": {
+    "value": "prestashop"
+  },
+  "location": {
+    "value": "northeurope"
+  }
+}
